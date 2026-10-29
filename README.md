@@ -19,8 +19,8 @@
 <br>
 
 * **Языки и разметка:** Python, Batch / PowerShell / Shell, HTML5 / CSS3 / JS
-* **Системы:** Windows, Linux, OpenWrt
-* **AI-стек:** Gemini, Claude, DeepSeek, Qwen
+* **Системы:** Windows
+* **AI-стек:** Gemini, Claude 
 
 </details>
 
@@ -32,7 +32,7 @@
 > Development architecture: idea, logic, and debugging by human; code generation by AI.
 
 * **Languages & Markup:** Python, Batch / PowerShell / Shell, HTML5 / CSS3 / JS
-* **Systems:** Windows, Linux, OpenWrt
-* **AI Stack:** Gemini, Claude, DeepSeek, Qwen
+* **Systems:** Windows
+* **AI Stack:** Gemini, Claude
 
 </details>
